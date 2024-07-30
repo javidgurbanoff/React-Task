@@ -27,7 +27,7 @@ const Header = () => {
           alt="Profile"
         />
         <h1 className='cursor-pointer'>admin</h1>
-        <FaCog className='text-xl cursor-pointer' />
+        <FaCog className='text-xl cursor-pointer  ' />
 
       </div>
     </header>
