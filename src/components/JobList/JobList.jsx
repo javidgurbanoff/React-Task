@@ -62,7 +62,7 @@ const JobList = () => {
       <div className="overflow-x-auto">
         <table className="w-full table-auto">
           <thead>
-            <tr className="bg-gray-700">
+            <tr className="bg-[#2a3042]">
               <th className="p-2">No</th>
               <th className="p-2">Job Title</th>
               <th className="p-2">Company Name</th>
